@@ -1,0 +1,26 @@
+.nav-title {
+  font-size: 2em;
+  font-weight: 600;
+  /* color: ; */
+}
+
+body {
+  background-color: #f8d7da92;
+}
+
+nav {
+  margin-bottom: 40px;
+}
+
+#movie-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+/* movie-overview  */
+
+.movie-display {
+  display: none;
+}
